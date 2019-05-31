@@ -9,7 +9,7 @@ name: Deepayan Choudhury
 description: Cartoonist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/deeptoonz/deeptoonz.github.io/blob/master/images/avatar.jpg
+avatar: blob:https://teams.microsoft.com/69d3b611-ff0a-44d9-a6cb-111d9671a57e
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: artistility@gmail.com
   facebook:
   flickr:
-  github: #barryclark/jekyll-now
+  github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
