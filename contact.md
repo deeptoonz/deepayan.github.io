@@ -12,4 +12,4 @@ Click on the below given link to mail me
 
 ### Contact me
 
-[deepnavigator@gmail.com](mailto:deepnavigator@gmail.com)
+[Mail me](mailto:deepnavigator@gmail.com)
